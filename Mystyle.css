@@ -1,0 +1,25 @@
+
+h1 { 
+	color:red;
+	text-align: center;
+	font-family: sans-serif;
+}
+
+p {
+	text-align: center;
+	color:purple;
+	font-family: serif;
+
+}
+
+* {
+	background-color:#66FF66;
+}
+
+ul { 
+	color: brown;
+	font-family: cursive;
+	font-size: 25px;
+
+	}
+
